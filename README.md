@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2> Hi, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a></h2>
 
 

@@ -10,7 +10,7 @@
 ![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![C#](https://img.shields.io/badge/-C-#-black?style=for-the-badge&logo=C-#)
+![C#](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=for-the-badge&logo=vue)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)

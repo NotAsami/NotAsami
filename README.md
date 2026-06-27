@@ -1,8 +1,10 @@
 <h2> Hi, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a></h2>
+
 <br/>
+
 🛠️ **Stuff I use (Languages, Tools and Others):**
-<br/>
-<br/>
+<br/><br/>
+
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=#3BABC3)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)

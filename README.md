@@ -40,7 +40,7 @@
 </p>
 
 <p>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasmai&theme=dracula" alt="notasami"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=dracula" alt="notasami"/>
  
 </p>
 

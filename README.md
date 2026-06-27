@@ -18,10 +18,10 @@
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
-![ReShaper](https://img.shields.io/badge/-ReShaper-black?style=for-the-badge&logo=resharper&logoColor=000000)
-![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=000000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=000000)
-![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=175DDC)
+![ReShaper](https://img.shields.io/badge/-ReShaper-black?style=for-the-badge&logo=resharper&logoColor=#000000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=#000000)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=#000000)
+![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=#175DDC)
 
 📈 **My GitHub Stats:**
 

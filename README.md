@@ -12,11 +12,12 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
+![Godot](https://img.shields.io/badge/-Godot_Engine-black?style=for-the-badge&logo=godotengine&logoColor=blue)
 
 📈 **My GitHub Stats:**
 

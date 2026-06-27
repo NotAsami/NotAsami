@@ -5,19 +5,21 @@
 
 🛠️ **Stuff I use (Languages, Tools and Others):**
 <br/><br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
-![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
-![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
+![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=#FFFFFF)
+![Godot](https://img.shields.io/badge/-Godot_Engine-black?style=for-the-badge&logo=godotengine&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Typescript)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vitess)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=purple)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
-![Godot](https://img.shields.io/badge/-Godot_Engine-black?style=for-the-badge&logo=godotengine&logoColor=blue)
+![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=#175DDC)
 
 📈 **My GitHub Stats:**
 

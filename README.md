@@ -12,7 +12,7 @@
 ![Godot](https://img.shields.io/badge/-Godot_Engine-black?style=for-the-badge&logo=godotengine&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript&logoColor=#3178C6)
-![NodeJs](https://img.shields.io/badge/Node.Js?style=for-the-badge&logo=nodedotjs&logoColor=#235FA04E)
+![NodeJs](https://img.shields.io/badge/-Node.Js-black?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vitess)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=purple)

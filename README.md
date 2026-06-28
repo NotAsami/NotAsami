@@ -16,7 +16,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=purple)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
 ![Supabase](https://img.shields.io/badge/-Supabase-purple?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)

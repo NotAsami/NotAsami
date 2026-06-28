@@ -84,7 +84,8 @@ I'm a Computer Science major currently studying at [University] in [City][Countr
 ---
 
 <div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi)  </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi)
+</div>
 
 <div align="center">
 

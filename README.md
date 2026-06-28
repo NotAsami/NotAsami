@@ -84,9 +84,13 @@ I'm a Computer Science major currently studying at [University] in [City][Countr
 ---
 
 <div align="center">
+  <a href="https://open.spotify.com/user/31yic5nsrwehh3omaslvsby27fwm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=80&section=footer)
-
-![visitors](https://komarev.com/ghpvc/?username=notasami&color=7c3aed&style=flat-square&label=visitors)
 
 </div>

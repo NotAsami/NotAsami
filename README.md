@@ -84,10 +84,7 @@ I'm a Computer Science major currently studying at [University] in [City][Countr
 ---
 
 <div align="center">
-  <a href="https://open.spotify.com/user/313y7lmjj34k532edxkcyncymvdi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi)  </a>
 
 <div align="center">
 

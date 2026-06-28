@@ -1,4 +1,15 @@
-<h2> Hi, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a></h2>
+<h2> Sup, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a></h2>
+
+I'm a Computer Science major currently studying at [University] in [City][Country]. I enjoy music, giving feedback and trying to debug late into the night.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <br/>
 
@@ -16,7 +27,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=purple)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-purple?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
@@ -35,18 +46,47 @@
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=dracula" alt="notasami"/>
 </p>
 
+<div align="center">
 
-<!--
-**NotAsami/NotAsami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Student+%7C+Modder+%7C+Debugger+%7C+Reporter;Game+Development+%26+Game+Design+%7C+Moddeling;I+sometimes+use+Arch+btw)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=notasami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=aaaaaa&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notasami&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=aaaaaa&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+![streak](https://github-readme-streak-stats.herokuapp.com?user=notasami&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=aaaaaa&dates=555555)
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=notasami&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area_color=2e1065&area=true&hide_border=true&radius=6)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=80&section=footer)
+
+![visitors](https://komarev.com/ghpvc/?username=notasami&color=7c3aed&style=flat-square&label=visitors)
+
+</div>

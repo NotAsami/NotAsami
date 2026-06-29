@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5D8F,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Student+%7C+Modder+%7C+Debugger+%7C+Reporter;Game+Development+%26+Game+Design+%7C+Moddeling;I+sometimes+use+Arch+btw)](https://git.io/typing-svg)
 
@@ -67,6 +67,6 @@ I'm a Computer Science major currently studying at [University] in [City], Slova
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:FF5D8F&height=80&section=footer)
 
 </div>

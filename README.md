@@ -1,20 +1,38 @@
-<h2> Sup, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a></h2>
+<div align="center">
 
-I'm a Computer Science major currently studying at [University] in [City][Country]. I enjoy music, giving feedback and trying to debug late into the night.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Student+%7C+Modder+%7C+Debugger+%7C+Reporter;Game+Development+%26+Game+Design+%7C+Moddeling;I+sometimes+use+Arch+btw)](https://git.io/typing-svg)
 
-<br/>
+</div>
+<table>
+<tr>
+<td valign="top" width="70%">
 
-🛠️ **Stuff I use (Languages, Tools and Others):**
-<br/><br/>
+## Sup, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a> <a href="https://notasami.github.io/portfolio"><img align="right" src="https://img.shields.io/badge/Portfolio-→-51289a?style=for-the-badge" alt="Portfolio"/></a>
+
+I'm a Computer Science major currently studying at [University] in [City], Slovakia. I enjoy music, trying to debug late into the night. I love modding any game I can get my grubby hands on, usually hypermodding said games.
+
+- 🔭 I’m currently working on [G.U.I.D.E Codex](https://github.com/NotAsami/GUIDE-webapp)
+- 🌱 I’m currently learning: Typescript, .NET (C#) and Rimworld Modding
+- 🤔 I’m looking for help with: Starting game-dev / game-design
+- 💬 Ask me about: Anything you can think of and I will try to answer to the best of my abilities
+- 📫 How to reach me: Message me on github or via email (it's on the portfolio)
+- 😄 Pronouns: Any
+- ⚡ Fun fact: I really like nuclear fusion & fission
+
+</td>
+<td valign="top" width="30%">
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313y7lmjj34k532edxkcyncymvdi&cover_image=true&theme=compact&show_offline=false&background_color=51289a&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+</tr>
+</table>
+<div align="center">
+
+## Stuff I use
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=#3BABC3)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
@@ -35,57 +53,17 @@ I'm a Computer Science major currently studying at [University] in [City][Countr
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=#000000)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=#000000)
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=#175DDC)
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notasami&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notasami&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-<p>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=dracula" alt="notasami"/>
-</p>
-
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Student+%7C+Modder+%7C+Debugger+%7C+Reporter;Game+Development+%26+Game+Design+%7C+Moddeling;I+sometimes+use+Arch+btw)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=notasami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=aaaaaa&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notasami&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=aaaaaa&langs_count=8" height="170"/>
-
 </div>
-
 <div align="center">
-
-![streak](https://github-readme-streak-stats.herokuapp.com?user=notasami&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=aaaaaa&dates=555555)
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=notasami&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=aaaaaa&dates=555555"/>
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=tokyonight" alt="notasami"/>
 </div>
 
 ---
-
-<div align="center">
-
-## Contribution Graph
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=notasami&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area_color=2e1065&area=true&hide_border=true&radius=6)
-
-</div>
-
----
-
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313y7lmjj34k532edxkcyncymvdi)
-</div>
 
 <div align="center">
 

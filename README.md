@@ -55,10 +55,9 @@ I'm a Computer Science major currently studying at [University] in [City], Slova
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=#175DDC)
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=notasami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=aaaaaa&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=notasami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=aaaaaa&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notasami&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=aaaaaa&langs_count=8" height="170"/>
-</div>
-<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=notasami&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=aaaaaa&dates=555555"/>
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=tokyonight" alt="notasami"/>
 </div>

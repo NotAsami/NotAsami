@@ -62,8 +62,6 @@ I'm a Computer Science major currently studying at [University] in [City], Slova
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=tokyonight" alt="notasami"/>
 </div>
 
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:FF5D8F&height=80&section=footer)

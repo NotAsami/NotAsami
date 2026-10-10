@@ -9,7 +9,7 @@
 <tr>
 <td valign="top" width="70%">
 
-## Sup, I'm <a href="https://notasami.github.io/portfolio">NotAsami</a> <a href="https://notasami.github.io/portfolio"><img align="right" src="https://img.shields.io/badge/Portfolio-→-51289a?style=for-the-badge" alt="Portfolio"/></a>
+## Sup, I'm <a href="https://notasami.dev">NotAsami</a> <a href="https://notasami.dev"><img align="right" src="https://img.shields.io/badge/Portfolio-→-51289a?style=for-the-badge" alt="Portfolio"/></a>
 
 I'm a Computer Science major currently studying at [University] in [City], Slovakia. I enjoy music, trying to debug late into the night. I love modding any game I can get my grubby hands on, usually hypermodding said games.
 

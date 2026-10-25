@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/NotAsami/GUIDE-webapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guide-webapp-dark.svg"><img src="assets/project-guide-webapp-light.svg" width="49%" alt="GUIDE-webapp"></picture></a>&nbsp;<a href="https://github.com/NotAsami/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg"><img src="assets/project-portfolio-light.svg" width="49%" alt="portfolio"></picture></a>
+<a href="https://github.com/NotAsami/GUIDE-webapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guide-webapp-dark.svg"><img src="assets/project-guide-webapp-light.svg" width="49%" alt="GUIDE-webapp"></picture></a>&nbsp;<a href="https://github.com/NotAsami/GoogleCalendarAgent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-googlecalendaragent-dark.svg"><img src="assets/project-googlecalendaragent-light.svg" width="49%" alt="GoogleCalendarAgent"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

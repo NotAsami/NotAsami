@@ -1,69 +1,23 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5D8F,100:7c3aed&height=120&section=header&text=NotAsami&fontSize=50&fontColor=FF5D8F&fontAlignY=65&animation=fadeIn)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m NotAsami"></picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Student+%7C+Modder+%7C+Debugger+%7C+Reporter;Game+Development+%26+Game+Design+%7C+Moddeling;I+sometimes+use+Arch+btw)](https://git.io/typing-svg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="23.801%" alt=""></picture><a href="https://notasami.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="21.832%" alt="person"></picture></a><a href="contact@notasami.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="30.564%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="23.801%" alt=""></picture>
 
-</div>
-<table>
-<tr>
-<td valign="top" width="70%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## Sup, I'm <a href="https://notasami.dev">NotAsami</a> <a href="https://notasami.dev"><img align="right" src="https://img.shields.io/badge/Portfolio-→-51289a?style=for-the-badge" alt="Portfolio"/></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-I'm a Computer Science major currently studying at [University] in [City], Slovakia. I enjoy music, trying to debug late into the night. I love modding any game I can get my grubby hands on, usually hypermodding said games.
+<a href="https://github.com/NotAsami/GUIDE-webapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guide-webapp-dark.svg"><img src="assets/project-guide-webapp-light.svg" width="49%" alt="GUIDE-webapp"></picture></a>&nbsp;<a href="https://github.com/NotAsami/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg"><img src="assets/project-portfolio-light.svg" width="49%" alt="portfolio"></picture></a>
 
-- 🔭 I’m currently working on [G.U.I.D.E Codex](https://github.com/NotAsami/GUIDE-webapp)
-- 🌱 I’m currently learning: Typescript, .NET (C#) and Rimworld Modding
-- 🤔 I’m looking for help with: Starting game-dev / game-design
-- 💬 Ask me about: Anything you can think of and I will try to answer to the best of my abilities
-- 📫 How to reach me: Message me on github or via email (contact@notasami.dev)
-- 😄 Pronouns: Any
-- ⚡ Fun fact: I really like nuclear fusion & fission
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-</td>
-<td valign="top" width="30%">
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313y7lmjj34k532edxkcyncymvdi&cover_image=true&theme=compact&show_offline=false&background_color=51289a&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-</td>
-</tr>
-</table>
-<div align="center">
+<a href="https://notasami.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/NotAsami?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-## Stuff I use
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=#3BABC3)
-![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
-![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=#FFFFFF)
-![Godot](https://img.shields.io/badge/-Godot_Engine-black?style=for-the-badge&logo=godotengine&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript&logoColor=#3178C6)
-![NodeJs](https://img.shields.io/badge/-Node.Js-black?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E)
-![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vitess)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=purple)
-![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase&logoColor=#3FCF8E)
-![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![ReShaper](https://img.shields.io/badge/-ReShaper-black?style=for-the-badge&logo=resharper&logoColor=#000000)
-![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=#000000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=#000000)
-![Bitwarden](https://img.shields.io/badge/-Bitwarden-black?style=for-the-badge&logo=bitwarden&logoColor=#175DDC)
-## Stats
-
-<img src="https://github-readme-stats.shion.dev/api?username=notasami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=aaaaaa&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notasami&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=aaaaaa&langs_count=8" height="170"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notasami&theme=transparent&hide_border=true&dates=555555&sideLabels=AAAAAA&currStreakLabel=A78BFA&fire=A78BFA&ring=7C3AED" alt="GitHub Streak" /></a>
-
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notasami&theme=tokyonight" alt="notasami"/>
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:FF5D8F&height=80&section=footer)
+<a href="https://metawka.github.io/expressive-profile/?from=NotAsami"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>

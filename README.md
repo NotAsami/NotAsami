@@ -17,7 +17,7 @@ I'm a Computer Science major currently studying at [University] in [City], Slova
 - 🌱 I’m currently learning: Typescript, .NET (C#) and Rimworld Modding
 - 🤔 I’m looking for help with: Starting game-dev / game-design
 - 💬 Ask me about: Anything you can think of and I will try to answer to the best of my abilities
-- 📫 How to reach me: Message me on github or via email (it's on the portfolio)
+- 📫 How to reach me: Message me on github or via email (contact@notasami.dev)
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I really like nuclear fusion & fission
 
